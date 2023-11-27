@@ -1,0 +1,2 @@
+this is bug fix in new_branch 
+After bug fixing this is new feature with minor alteration.
