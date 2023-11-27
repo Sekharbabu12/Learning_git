@@ -1,3 +1,4 @@
 this is bug fix in new_branch 
 After bug fixing this is new feature with minor alteration.
 this is advance of previous feature
+feature2 is completed and raedy for release
