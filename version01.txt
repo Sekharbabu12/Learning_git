@@ -1,0 +1,8 @@
+this is bug fix in new_branch 
+After bug fixing this is new feature with minor alteration.
+<<<<<<< HEAD
+this is advance of previous feature
+feature2 is completed and raedy for release
+=======
+this is advance of previous feature
+>>>>>>> d84ede0 (added feature2.2 in new branch)
